@@ -1,0 +1,1918 @@
+{
+    "itmes": [
+        {
+            "id": 0,
+            "name": "Adaptive Control Unit"
+        },
+        {
+            "id": 1,
+            "name": "AI Limiter"
+        },
+        {
+            "id": 2,
+            "name": "Alclad Aluminum Sheet"
+        },
+        {
+            "id": 3,
+            "name": "Alien Carapace"
+        },
+        {
+            "id": 4,
+            "name": "Alien DNA Capsule"
+        },
+        {
+            "id": 5,
+            "name": "Alien Organs"
+        },
+        {
+            "id": 6,
+            "name": "Alien Protein"
+        },
+        {
+            "id": 7,
+            "name": "Alien Remains"
+        },
+        {
+            "id": 8,
+            "name": "Aluminum Casing"
+        },
+        {
+            "id": 9,
+            "name": "Aluminum Ingot"
+        },
+        {
+            "id": 10,
+            "name": "Aluminum Scrap"
+        },
+        {
+            "id": 11,
+            "name": "Assembly Director System"
+        },
+        {
+            "id": 12,
+            "name": "Automated Wiring"
+        },
+        {
+            "id": 13,
+            "name": "Bacon Agaric"
+        },
+        {
+            "id": 14,
+            "name": "Battery"
+        },
+        {
+            "id": 15,
+            "name": "Bauxite"
+        },
+        {
+            "id": 16,
+            "name": "Beacon"
+        },
+        {
+            "id": 17,
+            "name": "Beryl Nut"
+        },
+        {
+            "id": 18,
+            "name": "Biomass"
+        },
+        {
+            "id": 19,
+            "name": "Black Powder"
+        },
+        {
+            "id": 20,
+            "name": "Blade Runners"
+        },
+        {
+            "id": 21,
+            "name": "Boom Box"
+        },
+        {
+            "id": 22,
+            "name": "Cable"
+        },
+        {
+            "id": 23,
+            "name": "Caterium Ingot"
+        },
+        {
+            "id": 24,
+            "name": "Caterium Ore"
+        },
+        {
+            "id": 25,
+            "name": "Circuit Board"
+        },
+        {
+            "id": 26,
+            "name": "Coal"
+        },
+        {
+            "id": 27,
+            "name": "Color Cartridge"
+        },
+        {
+            "id": 28,
+            "name": "Color Gun"
+        },
+        {
+            "id": 29,
+            "name": "Compacted Coal"
+        },
+        {
+            "id": 30,
+            "name": "Computer"
+        },
+        {
+            "id": 31,
+            "name": "Concrete"
+        },
+        {
+            "id": 32,
+            "name": "Cooling System"
+        },
+        {
+            "id": 33,
+            "name": "Copper Ingot"
+        },
+        {
+            "id": 34,
+            "name": "Copper Ore"
+        },
+        {
+            "id": 35,
+            "name": "Copper Powder"
+        },
+        {
+            "id": 36,
+            "name": "Copper Sheet"
+        },
+        {
+            "id": 37,
+            "name": "Crude Oil"
+        },
+        {
+            "id": 38,
+            "name": "Crystal Oscillator"
+        },
+        {
+            "id": 39,
+            "name": "Cup"
+        },
+        {
+            "id": 40,
+            "name": "Electromagnetic Control Rod"
+        },
+        {
+            "id": 41,
+            "name": "Empty Canister"
+        },
+        {
+            "id": 42,
+            "name": "Empty Fluid Tank"
+        },
+        {
+            "id": 43,
+            "name": "Encased Industrial Beam"
+        },
+        {
+            "id": 44,
+            "name": "Encased Plutonium Cell"
+        },
+        {
+            "id": 45,
+            "name": "Encased Uranium Cell"
+        },
+        {
+            "id": 46,
+            "name": "Fabric"
+        },
+        {
+            "id": 47,
+            "name": "FICSIT Coupon"
+        },
+        {
+            "id": 48,
+            "name": "Flower Petals"
+        },
+        {
+            "id": 49,
+            "name": "Fused Modular Frame"
+        },
+        {
+            "id": 50,
+            "name": "Gas Mask"
+        },
+        {
+            "id": 51,
+            "name": "Hard Drive"
+        },
+        {
+            "id": 52,
+            "name": "Hazmat Suit"
+        },
+        {
+            "id": 53,
+            "name": "Heat Sink"
+        },
+        {
+            "id": 54,
+            "name": "Heavy Modular Frame"
+        },
+        {
+            "id": 55,
+            "name": "High-Speed Connector"
+        },
+        {
+            "id": 56,
+            "name": "Hover Pack"
+        },
+        {
+            "id": 57,
+            "name": "HUB Parts"
+        },
+        {
+            "id": 58,
+            "name": "Iron Ingot"
+        },
+        {
+            "id": 59,
+            "name": "Iron Ore"
+        },
+        {
+            "id": 60,
+            "name": "Iron Plate"
+        },
+        {
+            "id": 61,
+            "name": "Iron Rod"
+        },
+        {
+            "id": 62,
+            "name": "Jetpack"
+        },
+        {
+            "id": 63,
+            "name": "Leaves"
+        },
+        {
+            "id": 64,
+            "name": "Limestone"
+        },
+        {
+            "id": 65,
+            "name": "Magnetic Field Generator"
+        },
+        {
+            "id": 66,
+            "name": "Medicinal Inhaler"
+        },
+        {
+            "id": 67,
+            "name": "Mercer Sphere"
+        },
+        {
+            "id": 68,
+            "name": "Modular Engine"
+        },
+        {
+            "id": 69,
+            "name": "Modular Frame"
+        },
+        {
+            "id": 70,
+            "name": "Motor"
+        },
+        {
+            "id": 71,
+            "name": "Mycelia"
+        },
+        {
+            "id": 72,
+            "name": "Nobelisk Detonator"
+        },
+        {
+            "id": 73,
+            "name": "Non-fissile Uranium"
+        },
+        {
+            "id": 74,
+            "name": "Nuclear Pasta"
+        },
+        {
+            "id": 75,
+            "name": "Object Scanner"
+        },
+        {
+            "id": 76,
+            "name": "Packaged Alumina Solution"
+        },
+        {
+            "id": 77,
+            "name": "Packaged Fuel"
+        },
+        {
+            "id": 78,
+            "name": "Packaged Heavy Oil Residue"
+        },
+        {
+            "id": 79,
+            "name": "Packaged Liquid Biofuel"
+        },
+        {
+            "id": 80,
+            "name": "Packaged Nitric Acid"
+        },
+        {
+            "id": 81,
+            "name": "Packaged Nitrogen Gas"
+        },
+        {
+            "id": 82,
+            "name": "Packaged Oil"
+        },
+        {
+            "id": 83,
+            "name": "Packaged Sulfuric Acid"
+        },
+        {
+            "id": 84,
+            "name": "Packaged Turbofuel"
+        },
+        {
+            "id": 85,
+            "name": "Packaged Water"
+        },
+        {
+            "id": 86,
+            "name": "Paleberry"
+        },
+        {
+            "id": 87,
+            "name": "Parachute"
+        },
+        {
+            "id": 88,
+            "name": "Petroleum Coke"
+        },
+        {
+            "id": 89,
+            "name": "Plastic"
+        },
+        {
+            "id": 90,
+            "name": "Plutonium Fuel Rod"
+        },
+        {
+            "id": 91,
+            "name": "Plutonium Pellet"
+        },
+        {
+            "id": 92,
+            "name": "Plutonium Waste"
+        },
+        {
+            "id": 93,
+            "name": "Polymer Resin"
+        },
+        {
+            "id": 94,
+            "name": "Power Shard"
+        },
+        {
+            "id": 95,
+            "name": "Power Slug"
+        },
+        {
+            "id": 96,
+            "name": "Pressure Conversion Cube"
+        },
+        {
+            "id": 97,
+            "name": "Quantum Computer"
+        },
+        {
+            "id": 98,
+            "name": "Quartz Crystal"
+        },
+        {
+            "id": 99,
+            "name": "Quickwire"
+        },
+        {
+            "id": 100,
+            "name": "Radio Control Unit"
+        },
+        {
+            "id": 101,
+            "name": "Raw Quartz"
+        },
+        {
+            "id": 102,
+            "name": "Rebar Gun"
+        },
+        {
+            "id": 103,
+            "name": "Reinforced Iron Plate"
+        },
+        {
+            "id": 104,
+            "name": "Rifle"
+        },
+        {
+            "id": 105,
+            "name": "Rotor"
+        },
+        {
+            "id": 106,
+            "name": "Rubber"
+        },
+        {
+            "id": 107,
+            "name": "SAM Ore"
+        },
+        {
+            "id": 108,
+            "name": "Screw"
+        },
+        {
+            "id": 109,
+            "name": "Silica"
+        },
+        {
+            "id": 110,
+            "name": "Smart Plating"
+        },
+        {
+            "id": 111,
+            "name": "Smokeless Powder"
+        },
+        {
+            "id": 112,
+            "name": "Solid Biofuel"
+        },
+        {
+            "id": 113,
+            "name": "Somersloop"
+        },
+        {
+            "id": 114,
+            "name": "Stator"
+        },
+        {
+            "id": 115,
+            "name": "Steel Beam"
+        },
+        {
+            "id": 116,
+            "name": "Steel Ingot"
+        },
+        {
+            "id": 117,
+            "name": "Steel Pipe"
+        },
+        {
+            "id": 118,
+            "name": "Sulfur"
+        },
+        {
+            "id": 119,
+            "name": "Supercomputer"
+        },
+        {
+            "id": 120,
+            "name": "Superposition Oscillator"
+        },
+        {
+            "id": 121,
+            "name": "Thermal Propulsion Rocket"
+        },
+        {
+            "id": 122,
+            "name": "Turbo Motor"
+        },
+        {
+            "id": 123,
+            "name": "Turbofuel"
+        },
+        {
+            "id": 124,
+            "name": "Uranium"
+        },
+        {
+            "id": 125,
+            "name": "Uranium Fuel Rod"
+        },
+        {
+            "id": 126,
+            "name": "Uranium Waste"
+        },
+        {
+            "id": 127,
+            "name": "Versatile Framework"
+        },
+        {
+            "id": 128,
+            "name": "Vines"
+        },
+        {
+            "id": 129,
+            "name": "Wire"
+        },
+        {
+            "id": 130,
+            "name": "Wood"
+        },
+        {
+            "id": 131,
+            "name": "Xeno-Basher"
+        },
+        {
+            "id": 132,
+            "name": "Xeno-Zapper"
+        }
+    ],
+    "recepies": [
+        {
+            "id": 0,
+            "name": "Adaptive Control Unit",
+            "crafters": "Manufacturer",
+            "rate": 1,
+            "recepie": [
+                {
+                    "rate": 7.5,
+                    "name": "Automated Wiring"
+                },
+                {
+                    "rate": 5,
+                    "name": "Circuit Board"
+                },
+                {
+                    "rate": 1,
+                    "name": "Heavy Modular Frame"
+                },
+                {
+                    "rate": 1,
+                    "name": "Computer"
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "AI Limiter",
+            "crafters": "Assembler",
+            "rate": 5,
+            "recepie": [
+                {
+                    "rate": 25,
+                    "name": "Copper Sheet"
+                },
+                {
+                    "rate": 100,
+                    "name": "Quickwire"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Alclad Aluminum Sheet",
+            "crafters": "Assembler",
+            "rate": 30,
+            "recepie": [
+                {
+                    "rate": 30,
+                    "name": "Aluminum Ingot"
+                },
+                {
+                    "rate": 10,
+                    "name": "Copper Ingot"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Alien DNA Capsule",
+            "crafters": "Constructor",
+            "rate": 10,
+            "recepie": [
+                {
+                    "rate": 10,
+                    "name": "Alien Protein"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Alien Protein",
+            "crafters": "Constructor",
+            "rate": 20,
+            "recepie": [
+                {
+                    "rate": 20,
+                    "name": "Hog Remains"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Aluminum Casing",
+            "crafters": "Constructor",
+            "rate": 60,
+            "recepie": [
+                {
+                    "rate": 90,
+                    "name": "Aluminum Ingot"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Aluminum Ingot",
+            "crafters": "Foundry",
+            "rate": 60,
+            "recepie": [
+                {
+                    "rate": 90,
+                    "name": "Aluminum Scrap"
+                },
+                {
+                    "rate": 75,
+                    "name": "Silica"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Aluminum Scrap",
+            "crafters": "Refinery",
+            "rate": 360,
+            "recepie": [
+                {
+                    "rate": 240,
+                    "name": "Alumina Solution"
+                },
+                {
+                    "rate": 120,
+                    "name": "Coal"
+                },
+                {
+                    "rate": 120,
+                    "name": "Water"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Assembly Director System",
+            "crafters": "Assembler",
+            "rate": 0.75,
+            "recepie": [
+                {
+                    "rate": 1.5,
+                    "name": "Adaptive Control Unit"
+                },
+                {
+                    "rate": 0.75,
+                    "name": "Supercomputer"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Automated Wiring",
+            "crafters": "Assembler",
+            "rate": 2.5,
+            "recepie": [
+                {
+                    "rate": 2.5,
+                    "name": "Stator"
+                },
+                {
+                    "rate": 50,
+                    "name": "Cable"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Battery",
+            "crafters": "Blender",
+            "rate": 20,
+            "recepie": [
+                {
+                    "rate": 50,
+                    "name": "Sulfuric Acid"
+                },
+                {
+                    "rate": 40,
+                    "name": "Alumina Solution"
+                },
+                {
+                    "rate": 30,
+                    "name": "Water"
+                },
+                {
+                    "rate": 20,
+                    "name": "Aluminum Casing"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Beacon",
+            "crafters": "Manufacturer",
+            "rate": 7.5,
+            "recepie": [
+                {
+                    "rate": 22.5,
+                    "name": "Iron Plate"
+                },
+                {
+                    "rate": 7.5,
+                    "name": "Iron Rod"
+                },
+                {
+                    "rate": 112.5,
+                    "name": "Wire"
+                },
+                {
+                    "rate": 15,
+                    "name": "Cable"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Biomass",
+            "crafters": "Constructor",
+            "rate": 60,
+            "recepie": [
+                {
+                    "rate": 120,
+                    "name": "Leaves"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Black Powder",
+            "crafters": "Assembler",
+            "rate": 30,
+            "recepie": [
+                {
+                    "rate": 15,
+                    "name": "Coal"
+                },
+                {
+                    "rate": 15,
+                    "name": "Sulfur"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Cable",
+            "crafters": "Constructor",
+            "rate": 30,
+            "recepie": [
+                {
+                    "rate": 60,
+                    "name": "Wire"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Caterium Ingot",
+            "crafters": "Smelter",
+            "rate": 15,
+            "recepie": [
+                {
+                    "rate": 45,
+                    "name": "Caterium Ore"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Circuit Board",
+            "crafters": "Assembler",
+            "rate": 7.5,
+            "recepie": [
+                {
+                    "rate": 15,
+                    "name": "Copper Sheet"
+                },
+                {
+                    "rate": 30,
+                    "name": "Plastic"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Color Cartridge",
+            "crafters": "Constructor",
+            "rate": 100,
+            "recepie": [
+                {
+                    "rate": 50,
+                    "name": "Flower Petals"
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Compacted Coal",
+            "crafters": "Assembler",
+            "rate": 25,
+            "recepie": [
+                {
+                    "rate": 25,
+                    "name": "Coal"
+                },
+                {
+                    "rate": 25,
+                    "name": "Sulfur"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "name": "Computer",
+            "crafters": "Manufacturer",
+            "rate": 2.5,
+            "recepie": [
+                {
+                    "rate": 25,
+                    "name": "Circuit Board"
+                },
+                {
+                    "rate": 22.5,
+                    "name": "Cable"
+                },
+                {
+                    "rate": 45,
+                    "name": "Plastic"
+                },
+                {
+                    "rate": 130,
+                    "name": "Screw"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "name": "Concrete",
+            "crafters": "Constructor",
+            "rate": 15,
+            "recepie": [
+                {
+                    "rate": 45,
+                    "name": "Limestone"
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "name": "Cooling System",
+            "crafters": "Blender",
+            "rate": 6,
+            "recepie": [
+                {
+                    "rate": 12,
+                    "name": "Heat Sink"
+                },
+                {
+                    "rate": 12,
+                    "name": "Rubber"
+                },
+                {
+                    "rate": 30,
+                    "name": "Water"
+                },
+                {
+                    "rate": 150,
+                    "name": "Nitrogen Gas"
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "name": "Copper Ingot",
+            "crafters": "Smelter",
+            "rate": 30,
+            "recepie": [
+                {
+                    "rate": 30,
+                    "name": "Copper Ore"
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "name": "Copper Powder",
+            "crafters": "Constructor",
+            "rate": 50,
+            "recepie": [
+                {
+                    "rate": 300,
+                    "name": "Copper Ingot"
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "name": "Copper Sheet",
+            "crafters": "Constructor",
+            "rate": 10,
+            "recepie": [
+                {
+                    "rate": 20,
+                    "name": "Copper Ingot"
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "name": "Crystal Oscillator",
+            "crafters": "Manufacturer",
+            "rate": 1,
+            "recepie": [
+                {
+                    "rate": 18,
+                    "name": "Quartz Crystal"
+                },
+                {
+                    "rate": 14,
+                    "name": "Cable"
+                },
+                {
+                    "rate": 2.5,
+                    "name": "Reinforced Iron Plate"
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "name": "Electromagnetic Control Rod",
+            "crafters": "Assembler",
+            "rate": 4,
+            "recepie": [
+                {
+                    "rate": 6,
+                    "name": "Stator"
+                },
+                {
+                    "rate": 4,
+                    "name": "AI Limiter"
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "name": "Empty Canister",
+            "crafters": "Constructor",
+            "rate": 60,
+            "recepie": [
+                {
+                    "rate": 30,
+                    "name": "Plastic"
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "name": "Empty Fluid Tank",
+            "crafters": "Constructor",
+            "rate": 60,
+            "recepie": [
+                {
+                    "rate": 60,
+                    "name": "Aluminum Ingot"
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "name": "Encased Industrial Beam",
+            "crafters": "Assembler",
+            "rate": 6,
+            "recepie": [
+                {
+                    "rate": 24,
+                    "name": "Steel Beam"
+                },
+                {
+                    "rate": 30,
+                    "name": "Concrete"
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "name": "Encased Plutonium Cell",
+            "crafters": "Assembler",
+            "rate": 5,
+            "recepie": [
+                {
+                    "rate": 10,
+                    "name": "Plutonium Pellet"
+                },
+                {
+                    "rate": 20,
+                    "name": "Concrete"
+                }
+            ]
+        },
+        {
+            "id": 31,
+            "name": "Encased Uranium Cell",
+            "crafters": "Blender",
+            "rate": 25,
+            "recepie": [
+                {
+                    "rate": 50,
+                    "name": "Uranium"
+                },
+                {
+                    "rate": 15,
+                    "name": "Concrete"
+                },
+                {
+                    "rate": 10,
+                    "name": "Sulfuric Acid"
+                },
+                {
+                    "rate": 40,
+                    "name": "Sulfuric Acid"
+                }
+            ]
+        },
+        {
+            "id": 32,
+            "name": "Fused Modular Frame",
+            "crafters": "Blender",
+            "rate": 1.5,
+            "recepie": [
+                {
+                    "rate": 1.5,
+                    "name": "Heavy Modular Frame"
+                },
+                {
+                    "rate": 75,
+                    "name": "Aluminum Casing"
+                },
+                {
+                    "rate": 37.5,
+                    "name": "Nitrogen Gas"
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "name": "Heat Sink",
+            "crafters": "Assembler",
+            "rate": 7.5,
+            "recepie": [
+                {
+                    "rate": 37.5,
+                    "name": "Alclad Aluminum Sheet"
+                },
+                {
+                    "rate": 22.5,
+                    "name": "Copper Sheet"
+                }
+            ]
+        },
+        {
+            "id": 34,
+            "name": "Heavy Modular Frame",
+            "crafters": "Manufacturer",
+            "rate": 2,
+            "recepie": [
+                {
+                    "rate": 10,
+                    "name": "Modular Frame"
+                },
+                {
+                    "rate": 30,
+                    "name": "Steel Pipe"
+                },
+                {
+                    "rate": 10,
+                    "name": "Encased Industrial Beam"
+                },
+                {
+                    "rate": 200,
+                    "name": "Screw"
+                }
+            ]
+        },
+        {
+            "id": 35,
+            "name": "High-Speed Connector",
+            "crafters": "Manufacturer",
+            "rate": 3.75,
+            "recepie": [
+                {
+                    "rate": 210,
+                    "name": "Quickwire"
+                },
+                {
+                    "rate": 37.5,
+                    "name": "Cable"
+                },
+                {
+                    "rate": 3.75,
+                    "name": "Circuit Board"
+                }
+            ]
+        },
+        {
+            "id": 36,
+            "name": "Iron Ingot",
+            "crafters": "Smelter",
+            "rate": 30,
+            "recepie": [
+                {
+                    "rate": 30,
+                    "name": "Iron Ore"
+                }
+            ]
+        },
+        {
+            "id": 37,
+            "name": "Iron Plate",
+            "crafters": "Constructor",
+            "rate": 20,
+            "recepie": [
+                {
+                    "rate": 30,
+                    "name": "Iron Ingot"
+                }
+            ]
+        },
+        {
+            "id": 38,
+            "name": "Iron Rod",
+            "crafters": "Constructor",
+            "rate": 15,
+            "recepie": [
+                {
+                    "rate": 15,
+                    "name": "Iron Ingot"
+                }
+            ]
+        },
+        {
+            "id": 39,
+            "name": "Magnetic Field Generator",
+            "crafters": "Manufacturer",
+            "rate": 1,
+            "recepie": [
+                {
+                    "rate": 2.5,
+                    "name": "Versatile Framework"
+                },
+                {
+                    "rate": 1,
+                    "name": "Electromagnetic Control Rod"
+                },
+                {
+                    "rate": 5,
+                    "name": "Battery"
+                }
+            ]
+        },
+        {
+            "id": 40,
+            "name": "Modular Engine",
+            "crafters": "Manufacturer",
+            "rate": 1,
+            "recepie": [
+                {
+                    "rate": 2,
+                    "name": "Motor"
+                },
+                {
+                    "rate": 15,
+                    "name": "Rubber"
+                },
+                {
+                    "rate": 2,
+                    "name": "Smart Plating"
+                }
+            ]
+        },
+        {
+            "id": 41,
+            "name": "Modular Frame",
+            "crafters": "Assembler",
+            "rate": 2,
+            "recepie": [
+                {
+                    "rate": 3,
+                    "name": "Reinforced Iron Plate"
+                },
+                {
+                    "rate": 12,
+                    "name": "Iron Rod"
+                }
+            ]
+        },
+        {
+            "id": 42,
+            "name": "Motor",
+            "crafters": "Assembler",
+            "rate": 5,
+            "recepie": [
+                {
+                    "rate": 10,
+                    "name": "Rotor"
+                },
+                {
+                    "rate": 10,
+                    "name": "Stator"
+                }
+            ]
+        },
+        {
+            "id": 43,
+            "name": "Non-fissile Uranium",
+            "crafters": "Blender",
+            "rate": 50,
+            "recepie": [
+                {
+                    "rate": 37.5,
+                    "name": "Uranium Waste"
+                },
+                {
+                    "rate": 25,
+                    "name": "Silica"
+                },
+                {
+                    "rate": 15,
+                    "name": "Water"
+                },
+                {
+                    "rate": 15,
+                    "name": "Nitric Acid"
+                },
+                {
+                    "rate": 15,
+                    "name": "Sulfuric Acid"
+                }
+            ]
+        },
+        {
+            "id": 44,
+            "name": "Nuclear Pasta",
+            "crafters": "Particle Accelerator",
+            "rate": 0.5,
+            "recepie": [
+                {
+                    "rate": 100,
+                    "name": "Copper Powder"
+                },
+                {
+                    "rate": 0.5,
+                    "name": "Pressure Conversion Cube"
+                }
+            ]
+        },
+        {
+            "id": 45,
+            "name": "Packaged Alumina Solution",
+            "crafters": "Packager",
+            "rate": 120,
+            "recepie": [
+                {
+                    "rate": 120,
+                    "name": "Alumina Solution"
+                },
+                {
+                    "rate": 120,
+                    "name": "Empty Canister"
+                }
+            ]
+        },
+        {
+            "id": 46,
+            "name": "Packaged Fuel",
+            "crafters": "Packager",
+            "rate": 40,
+            "recepie": [
+                {
+                    "rate": 40,
+                    "name": "Fuel"
+                },
+                {
+                    "rate": 40,
+                    "name": "Empty Canister"
+                }
+            ]
+        },
+        {
+            "id": 47,
+            "name": "Packaged Heavy Oil Residue",
+            "crafters": "Packager",
+            "rate": 30,
+            "recepie": [
+                {
+                    "rate": 30,
+                    "name": "Heavy Oil Residue"
+                },
+                {
+                    "rate": 30,
+                    "name": "Empty Canister"
+                }
+            ]
+        },
+        {
+            "id": 48,
+            "name": "Packaged Liquid Biofuel",
+            "crafters": "Packager",
+            "rate": 40,
+            "recepie": [
+                {
+                    "rate": 40,
+                    "name": "Liquid Biofuel"
+                },
+                {
+                    "rate": 40,
+                    "name": "Empty Canister"
+                }
+            ]
+        },
+        {
+            "id": 49,
+            "name": "Packaged Nitric Acid",
+            "crafters": "Packager",
+            "rate": 30,
+            "recepie": [
+                {
+                    "rate": 30,
+                    "name": "Nitric Acid"
+                },
+                {
+                    "rate": 30,
+                    "name": "Empty Fluid Tank"
+                }
+            ]
+        },
+        {
+            "id": 50,
+            "name": "Packaged Nitrogen Gas",
+            "crafters": "Packager",
+            "rate": 60,
+            "recepie": [
+                {
+                    "rate": 240,
+                    "name": "Nitrogen Gas"
+                },
+                {
+                    "rate": 60,
+                    "name": "Empty Fluid Tank"
+                }
+            ]
+        },
+        {
+            "id": 51,
+            "name": "Packaged Oil",
+            "crafters": "Packager",
+            "rate": 30,
+            "recepie": [
+                {
+                    "rate": 30,
+                    "name": "Crude Oil"
+                },
+                {
+                    "rate": 30,
+                    "name": "Empty Canister"
+                }
+            ]
+        },
+        {
+            "id": 52,
+            "name": "Packaged Sulfuric Acid",
+            "crafters": "Packager",
+            "rate": 40,
+            "recepie": [
+                {
+                    "rate": 40,
+                    "name": "Sulfuric Acid"
+                },
+                {
+                    "rate": 40,
+                    "name": "Empty Canister"
+                }
+            ]
+        },
+        {
+            "id": 53,
+            "name": "Packaged Turbofuel",
+            "crafters": "Packager",
+            "rate": 20,
+            "recepie": [
+                {
+                    "rate": 20,
+                    "name": "Turbofuel"
+                },
+                {
+                    "rate": 20,
+                    "name": "Empty Canister"
+                }
+            ]
+        },
+        {
+            "id": 54,
+            "name": "Packaged Water",
+            "crafters": "Packager",
+            "rate": 60,
+            "recepie": [
+                {
+                    "rate": 60,
+                    "name": "Water"
+                },
+                {
+                    "rate": 60,
+                    "name": "Empty Canister"
+                }
+            ]
+        },
+        {
+            "id": 55,
+            "name": "Petroleum Coke",
+            "crafters": "Refinery",
+            "rate": 120,
+            "recepie": [
+                {
+                    "rate": 40,
+                    "name": "Heavy Oil Residue"
+                }
+            ]
+        },
+        {
+            "id": 56,
+            "name": "Plastic",
+            "crafters": "Refinery",
+            "rate": 20,
+            "recepie": [
+                {
+                    "rate": 30,
+                    "name": "Crude Oil"
+                },
+                {
+                    "rate": 10,
+                    "name": "Heavy Oil Residue"
+                }
+            ]
+        },
+        {
+            "id": 57,
+            "name": "Plutonium Fuel Rod",
+            "crafters": "Manufacturer",
+            "rate": 0.25,
+            "recepie": [
+                {
+                    "rate": 7.5,
+                    "name": "Encased Plutonium Cell"
+                },
+                {
+                    "rate": 4.5,
+                    "name": "Steel Beam"
+                },
+                {
+                    "rate": 1.5,
+                    "name": "Electromagnetic Control Rod"
+                },
+                {
+                    "rate": 2.5,
+                    "name": "Heat Sink"
+                }
+            ]
+        },
+        {
+            "id": 58,
+            "name": "Plutonium Pellet",
+            "crafters": "Particle Accelerator",
+            "rate": 30,
+            "recepie": [
+                {
+                    "rate": 100,
+                    "name": "Non-fissile Uranium"
+                },
+                {
+                    "rate": 25,
+                    "name": "Uranium Waste"
+                }
+            ]
+        },
+        {
+            "id": 59,
+            "name": "Plutonium Waste",
+            "crafters": "Nuclear Power Plant",
+            "rate": 1,
+            "recepie": [
+                {
+                    "rate": 0.1,
+                    "name": "Plutonium Fuel Rod"
+                },
+                {
+                    "rate": 240,
+                    "name": "Water"
+                }
+            ]
+        },
+        {
+            "id": 60,
+            "name": "Polymer Resin",
+            "crafters": "Refinery",
+            "rate": 30,
+            "recepie": [
+                {
+                    "rate": 60,
+                    "name": "Crude Oil"
+                },
+                {
+                    "rate": 40,
+                    "name": "Fuel"
+                }
+            ]
+        },
+        {
+            "id": 61,
+            "name": "Pressure Conversion Cube",
+            "crafters": "Assembler",
+            "rate": 1,
+            "recepie": [
+                {
+                    "rate": 1,
+                    "name": "Fused Modular Frame"
+                },
+                {
+                    "rate": 2,
+                    "name": "Radio Control Unit"
+                }
+            ]
+        },
+        {
+            "id": 62,
+            "name": "Quartz Crystal",
+            "crafters": "Constructor",
+            "rate": 22.5,
+            "recepie": [
+                {
+                    "rate": 37.5,
+                    "name": "Raw Quartz"
+                }
+            ]
+        },
+        {
+            "id": 63,
+            "name": "Quickwire",
+            "crafters": "Constructor",
+            "rate": 60,
+            "recepie": [
+                {
+                    "rate": 12,
+                    "name": "Caterium Ingot"
+                }
+            ]
+        },
+        {
+            "id": 64,
+            "name": "Radio Control Unit",
+            "crafters": "Manufacturer",
+            "rate": 2.5,
+            "recepie": [
+                {
+                    "rate": 40,
+                    "name": "Aluminum Casing"
+                },
+                {
+                    "rate": 1.25,
+                    "name": "Crystal Oscillator"
+                },
+                {
+                    "rate": 1.25,
+                    "name": "Computer"
+                }
+            ]
+        },
+        {
+            "id": 65,
+            "name": "Reinforced Iron Plate",
+            "crafters": "Assembler",
+            "rate": 5,
+            "recepie": [
+                {
+                    "rate": 30,
+                    "name": "Iron Plate"
+                },
+                {
+                    "rate": 60,
+                    "name": "Screw"
+                }
+            ]
+        },
+        {
+            "id": 66,
+            "name": "Rotor",
+            "crafters": "Assembler",
+            "rate": 4,
+            "recepie": [
+                {
+                    "rate": 20,
+                    "name": "Iron Rod"
+                },
+                {
+                    "rate": 100,
+                    "name": "Screw"
+                }
+            ]
+        },
+        {
+            "id": 67,
+            "name": "Rubber",
+            "crafters": "Refinery",
+            "rate": 20,
+            "recepie": [
+                {
+                    "rate": 30,
+                    "name": "Crude Oil"
+                },
+                {
+                    "rate": 20,
+                    "name": "Heavy Oil Residue"
+                }
+            ]
+        },
+        {
+            "id": 68,
+            "name": "Screw",
+            "crafters": "Constructor",
+            "rate": 40,
+            "recepie": [
+                {
+                    "rate": 10,
+                    "name": "Iron Rod"
+                }
+            ]
+        },
+        {
+            "id": 69,
+            "name": "Smart Plating",
+            "crafters": "Assembler",
+            "rate": 2,
+            "recepie": [
+                {
+                    "rate": 2,
+                    "name": "Reinforced Iron Plate"
+                },
+                {
+                    "rate": 2,
+                    "name": "Rotor"
+                }
+            ]
+        },
+        {
+            "id": 70,
+            "name": "Smokeless Powder",
+            "crafters": "Refinery",
+            "rate": 20,
+            "recepie": [
+                {
+                    "rate": 20,
+                    "name": "Black Powder"
+                },
+                {
+                    "rate": 10,
+                    "name": "Heavy Oil Residue"
+                }
+            ]
+        },
+        {
+            "id": 71,
+            "name": "Solid Biofuel",
+            "crafters": "Constructor",
+            "rate": 60,
+            "recepie": [
+                {
+                    "rate": 120,
+                    "name": "Biomass"
+                }
+            ]
+        },
+        {
+            "id": 72,
+            "name": "Stator",
+            "crafters": "Assembler",
+            "rate": 5,
+            "recepie": [
+                {
+                    "rate": 15,
+                    "name": "Steel Pipe"
+                },
+                {
+                    "rate": 40,
+                    "name": "Wire"
+                }
+            ]
+        },
+        {
+            "id": 73,
+            "name": "Steel Beam",
+            "crafters": "Constructor",
+            "rate": 15,
+            "recepie": [
+                {
+                    "rate": 60,
+                    "name": "Steel Ingot"
+                }
+            ]
+        },
+        {
+            "id": 74,
+            "name": "Steel Ingot",
+            "crafters": "Foundry",
+            "rate": 45,
+            "recepie": [
+                {
+                    "rate": 45,
+                    "name": "Iron Ore"
+                },
+                {
+                    "rate": 45,
+                    "name": "Coal"
+                }
+            ]
+        },
+        {
+            "id": 75,
+            "name": "Steel Pipe",
+            "crafters": "Constructor",
+            "rate": 20,
+            "recepie": [
+                {
+                    "rate": 30,
+                    "name": "Steel Ingot"
+                }
+            ]
+        },
+        {
+            "id": 76,
+            "name": "Supercomputer",
+            "crafters": "Manufacturer",
+            "rate": 1.875,
+            "recepie": [
+                {
+                    "rate": 3.75,
+                    "name": "Computer"
+                },
+                {
+                    "rate": 3.75,
+                    "name": "AI Limiter"
+                },
+                {
+                    "rate": 5.625,
+                    "name": "High-Speed Connector"
+                },
+                {
+                    "rate": 52.5,
+                    "name": "Plastic"
+                }
+            ]
+        },
+        {
+            "id": 77,
+            "name": "Thermal Propulsion Rocket",
+            "crafters": "Manufacturer",
+            "rate": 1,
+            "recepie": [
+                {
+                    "rate": 2.5,
+                    "name": "Modular Engine"
+                },
+                {
+                    "rate": 1,
+                    "name": "Turbo Motor"
+                },
+                {
+                    "rate": 3,
+                    "name": "Cooling System"
+                },
+                {
+                    "rate": 1,
+                    "name": "Fused Modular Frame"
+                }
+            ]
+        },
+        {
+            "id": 78,
+            "name": "Turbo Motor",
+            "crafters": "Manufacturer",
+            "rate": 1.875,
+            "recepie": [
+                {
+                    "rate": 7.5,
+                    "name": "Cooling System"
+                },
+                {
+                    "rate": 3.75,
+                    "name": "Radio Control Unit"
+                },
+                {
+                    "rate": 7.5,
+                    "name": "Motor"
+                },
+                {
+                    "rate": 45,
+                    "name": "Rubber"
+                }
+            ]
+        },
+        {
+            "id": 79,
+            "name": "Turbofuel",
+            "crafters": "Refinery",
+            "rate": 18.75,
+            "recepie": [
+                {
+                    "rate": 22.5,
+                    "name": "Fuel"
+                },
+                {
+                    "rate": 15,
+                    "name": "Compacted Coal"
+                }
+            ]
+        },
+        {
+            "id": 80,
+            "name": "Uranium Fuel Rod",
+            "crafters": "Manufacturer",
+            "rate": 0.4,
+            "recepie": [
+                {
+                    "rate": 20,
+                    "name": "Encased Uranium Cell"
+                },
+                {
+                    "rate": 1.2,
+                    "name": "Encased Industrial Beam"
+                },
+                {
+                    "rate": 2,
+                    "name": "Electromagnetic Control Rod"
+                }
+            ]
+        },
+        {
+            "id": 81,
+            "name": "Uranium Waste",
+            "crafters": "Nuclear Power Plant",
+            "rate": 10,
+            "recepie": [
+                {
+                    "rate": 0.2,
+                    "name": "Uranium Fuel Rod"
+                },
+                {
+                    "rate": 240,
+                    "name": "Water"
+                }
+            ]
+        },
+        {
+            "id": 82,
+            "name": "Versatile Framework",
+            "crafters": "Assembler",
+            "rate": 5,
+            "recepie": [
+                {
+                    "rate": 2.5,
+                    "name": "Modular Frame"
+                },
+                {
+                    "rate": 30,
+                    "name": "Steel Beam"
+                }
+            ]
+        },
+        {
+            "id": 83,
+            "name": "Wire",
+            "crafters": "Constructor",
+            "rate": 30,
+            "recepie": [
+                {
+                    "rate": 15,
+                    "name": "Copper Ingot"
+                }
+            ]
+        }
+    ]
+}
